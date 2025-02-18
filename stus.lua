@@ -92,7 +92,7 @@ DelayBox.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
 
 -- Dòng chữ lớn giữa màn hình khi Auto Chat bật
 OverlayText.Parent = ScreenGui
-OverlayText.Text = "Kenon Hub|by:khoitongdz Sever Discord:https://discord.gg/w26VGWmMPbm  "
+OverlayText.Text = "Kenon Hub|by:khoitongdz Sever Discord:https://discord.gg/w26VGWmMPbm "
 OverlayText.Size = UDim2.new(1, 0, 0.1, 0)
 OverlayText.Position = UDim2.new(0, 0, 0.45, 0)
 OverlayText.TextColor3 = Color3.fromRGB(255, 0, 0)
