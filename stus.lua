@@ -1,6 +1,6 @@
 -- Kenon Hub 
 local messages = {" Pls help me goal 2000 robux "}
-local delay = 65 -- Thời gian giữa các tin nhắn (mặc định 35 giây)
+local delay = 65 -- Thời gian giữa các tin nhắn (mặc định 65 giây)
 local running = false
 
 -- Kiểm tra executor
@@ -92,7 +92,7 @@ DelayBox.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
 
 -- Dòng chữ lớn giữa màn hình khi Auto Chat bật
 OverlayText.Parent = ScreenGui
-OverlayText.Text = "địt mẹ mày béo"
+OverlayText.Text = "𝖈ặ𝖈 𝖍𝖚𝖇"
 OverlayText.Size = UDim2.new(1, 0, 0.1, 0)
 OverlayText.Position = UDim2.new(0, 0, 0.45, 0)
 OverlayText.TextColor3 = Color3.fromRGB(255, 0, 0)
