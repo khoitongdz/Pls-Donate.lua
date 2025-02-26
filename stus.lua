@@ -1,6 +1,6 @@
 -- Kenon Hub 
-local messages = {" sửu cằn 123 "}
-local delay = 55 -- Thời gian giữa các tin nhắn (mặc định 35 giây)
+local messages = {" Pls help me goal 2000 robux "}
+local delay = 65 -- Thời gian giữa các tin nhắn (mặc định 35 giây)
 local running = false
 
 -- Kiểm tra executor
