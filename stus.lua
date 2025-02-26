@@ -1,5 +1,5 @@
 -- Kenon Hub 
-local messages = {" Pls help me goal 2000 robux "}
+local messages = {" Nhập tin nhắn... "}
 local delay = 65 -- Thời gian giữa các tin nhắn (mặc định 65 giây)
 local running = false
 
